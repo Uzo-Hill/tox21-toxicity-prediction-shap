@@ -47,7 +47,7 @@ Traditional toxicity testing is slow, expensive, and often relies on animal test
 | Best task | NR-AR-LBD (0.848) | NR-AR-LBD (0.807) |
 | Weakest task | NR-ER (0.603) | NR-PPAR-gamma (0.605) |
 
-Full per-task results: [`results/tox21_12task_benchmark.csv`](results/tox21_12task_benchmark.csv)
+Full per-task results: [`results/tox21_12task_benchmark.csv`](https://github.com/Uzo-Hill/tox21-toxicity-prediction-shap/blob/main/tox21_12task_benchmark.csv)
 
 ### Deep-Dive Interpretability (4 Tasks)
 
