@@ -62,15 +62,16 @@ Full per-task results: [`results/tox21_12task_benchmark.csv`](results/tox21_12ta
 
 ## Figures
 
+
 | NR-AhR | NR-AR |
 |---|---|
-| ![NR-AhR](figures/all_substructures_grid_NRAhR.png) | ![NR-AR](figures/all_substructures_grid_NRAR.png) |
+| ![NR-AhR](https://github.com/Uzo-Hill/tox21-toxicity-prediction-shap/blob/main/all_substructures_grid_NRAhR.png) | ![NR-AR](https://github.com/Uzo-Hill/tox21-toxicity-prediction-shap/blob/main/all_substructures_grid_NRAR.png) |
 
 | SR-p53 | NR-ER-LBD |
 |---|---|
-| ![SR-p53](figures/all_substructures_grid_SRp53.png) | ![NR-ER-LBD](figures/all_substructures_grid_NRERLBD.png) |
+| ![SR-p53](https://github.com/Uzo-Hill/tox21-toxicity-prediction-shap/blob/main/all_substructures_grid_SRp53.png) | ![NR-ER-LBD](https://github.com/Uzo-Hill/tox21-toxicity-prediction-shap/blob/main/all_substructures_grid_NRERLBD.png) |
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 tox21-toxicity-prediction-shap/
@@ -85,7 +86,7 @@ tox21-toxicity-prediction-shap/
     └── tox21_paper_draft.docx
 ```
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ```bash
 # Clone the repository
@@ -106,7 +107,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-## 📦 Requirements
+## Requirements
 
 ```
 deepchem==2.8.0
@@ -130,11 +131,11 @@ ipykernel
 
 See the full paper for a complete discussion of limitations and future work.
 
-## 📄 Paper
+## Paper
 
 The full research paper draft is available at [`paper/tox21_paper_draft.docx`](paper/tox21_paper_draft.docx).
 
-## 📚 Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -151,8 +152,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **Chukwudum Hillary Uzoh**
+
 Data Scientist & AI Engineer | Analytical & Industrial Chemistry background
-[LinkedIn](#) · [Twitter/X](#) · [GitHub](https://github.com/Uzo-Hill)
+
+[LinkedIn](https://www.linkedin.com/in/hillaryuzoh/) · [Twitter/X](https://x.com/UzohHillary) · [GitHub](https://github.com/Uzo-Hill)
 
 ## 🙏 Acknowledgments
 
